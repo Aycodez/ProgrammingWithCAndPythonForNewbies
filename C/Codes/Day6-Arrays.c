@@ -1,4 +1,4 @@
-// Programming With Python And C For Newbies Day 4(Arrays)
+// Programming With Python And C For Newbies Day (Arrays)
 
 // Things covered in this class:
 // 1.Arrays in C
